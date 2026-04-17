@@ -1,0 +1,9 @@
+1.
+Desempeña el rol de diseñador grafico, necesito crear una interfaz grafica a mi menú, donde el usuario pueda seleccion los juegos que están cargados. - utiliza una paleta de colores con tono bajos. - la imagen debe ir a la izquierda centrada. - el menú debe ir a la parte derecha. - a la parte de abajo en la derecha colocar el mensaje de texto que está al final del codigo.
+
+2.
+adjunto los 2 archivos, necesito centrar a la mitad de la pantalla, la imagen debe ir en la parte de arriba del titulo, utilizar estilos gamer.
+
+
+
+
